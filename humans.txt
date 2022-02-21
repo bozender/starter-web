@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Batuhan Ozender b.ozender59@gmail.com
 
 # THANKS
 
